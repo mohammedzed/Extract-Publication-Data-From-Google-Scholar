@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Ashraf Aboulnaga",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=47sihrsAAAAJ&citpid=3",
+    "keywords": [
+      "Databases",
+      "Cloud computing"
+    ],
+    "affiliation": "Qatar Computing Research Institute",
+    "url": "https://scholar.google.com/citations?user=47sihrsAAAAJ&hl=en&oi=sra",
+    "PublicationArray": [
+      {
+        "Title": "Self-tuning histograms: Building histograms without looking at data",
+        "Author": "A Aboulnaga, S Chaudhuri",
+        "Venue": "ACM SIGMOD Record 28 (2), 181-192",
+        "Cited By": "301",
+        "Year": "1999"
+      },
+      {
+        "Title": "Estimating the selectivity of XML path expressions for internet scale applications",
+        "Author": "A Aboulnaga, AR Alameldeen, JF Naughton",
+        "Venue": "VLDB 1, 591-600",
+        "Cited By": "253",
+        "Year": "2001"
+      },
+      {
+        "Title": "The Niagara internet query system",
+        "Author": "JF Naughton, DJ DeWitt, D Maier, A Aboulnaga, J Chen, L Galanis, ...",
+        "Venue": "IEEE Data Eng. Bull. 24 (2), 27-33",
+        "Cited By": "246",
+        "Year": "2001"
+      },
+      {
+        "Title": "CORDS: automatic discovery of correlations and soft functional dependencies",
+        "Author": "IF Ilyas, V Markl, P Haas, P Brown, A Aboulnaga",
+        "Venue": "Proceedings of the 2004 ACM SIGMOD international conference on Management of ...",
+        "Cited By": "211",
+        "Year": "2004"
+      },
+      {
+        "Title": "Automatic virtual machine configuration for database workloads",
+        "Author": "AA Soror, UF Minhas, A Aboulnaga, K Salem, P Kokosielis, S Kamath",
+        "Venue": "ACM Transactions on Database Systems (TODS) 35 (1), 7",
+        "Cited By": "175",
+        "Year": "2010"
+      },
+      {
+        "Title": "XSEED: accurate and fast cardinality estimation for XPath queries",
+        "Author": "N Zhang, MT Özsu, A Aboulnaga, IF Ilyas",
+        "Venue": "Data Engineering, 2006. ICDE'06. Proceedings of the 22nd International ...",
+        "Cited By": "103",
+        "Year": "2006"
+      },
+      {
+        "Title": "Accurate estimation of the cost of spatial selections",
+        "Author": "A Aboulnaga, JF Naughton",
+        "Venue": "Data Engineering, 2000. Proceedings. 16th International Conference on, 123-134",
+        "Cited By": "83",
+        "Year": "2000"
+      },
+      {
+        "Title": "ReStore: reusing results of MapReduce jobs",
+        "Author": "I Elghandour, A Aboulnaga",
+        "Venue": "Proceedings of the VLDB Endowment 5 (6), 586-597",
+        "Cited By": "80",
+        "Year": "2012"
+      },
+      {
+        "Title": "Deploying Database Appliances in the Cloud.",
+        "Author": "A Aboulnaga, K Salem, AA Soror, UF Minhas, P Kokosielis, S Kamath",
+        "Venue": "IEEE Data Eng. Bull. 32 (1), 13-20",
+        "Cited By": "75",
+        "Year": "2009"
+      },
+      {
+        "Title": "Automated statistics collection in DB2 UDB",
+        "Author": "A Aboulnaga, P Haas, M Kandil, S Lightstone, G Lohman, V Markl, ...",
+        "Venue": "Proceedings of the Thirtieth international conference on Very large data ...",
+        "Cited By": "62",
+        "Year": "2004"
+      },
+      {
+        "Title": "Generating Synthetic Complex-Structured XML Data.",
+        "Author": "A Aboulnaga, JF Naughton, C Zhang",
+        "Venue": "WebDB 1, 79-84",
+        "Cited By": "62",
+        "Year": "2001"
+      },
+      {
+        "Title": "Second-Tier Cache Management Using Write Hints.",
+        "Author": "X Li, A Aboulnaga, K Salem, A Sachedina, S Gao",
+        "Venue": "FAST 5, 9-9",
+        "Cited By": "59",
+        "Year": "2005"
+      },
+      {
+        "Title": "Remusdb: Transparent high availability for database systems",
+        "Author": "UF Minhas, S Rajagopalan, B Cully, A Aboulnaga, K Salem, A Warfield",
+        "Venue": "The VLDB Journal 22 (1), 29-45",
+        "Cited By": "57",
+        "Year": "2013"
+      },
+      {
+        "Title": "Self-tuning histogram and database modeling",
+        "Author": "A Aboulnaga, S Chaudhuri",
+        "Venue": "US Patent 6,460,045",
+        "Cited By": "54",
+        "Year": "2002"
+      },
+      {
+        "Title": "Fix: Feature-based indexing technique for xml documents",
+        "Author": "N Zhang, MT Özsu, IF Ilyas, A Aboulnaga",
+        "Venue": "Proceedings of the 32nd international conference on Very large data bases ...",
+        "Cited By": "52",
+        "Year": "2006"
+      },
+      {
+        "Title": "Modeling and exploiting query interactions in database systems",
+        "Author": "M Ahmad, A Aboulnaga, S Babu, K Munagala",
+        "Venue": "Proceedings of the 17th ACM conference on Information and knowledge ...",
+        "Cited By": "50",
+        "Year": "2008"
+      },
+      {
+        "Title": "Query optimization by sub-plan memoization",
+        "Author": "S Chaudhuri, AI Aboulnaga",
+        "Venue": "US Patent 6,850,925",
+        "Cited By": "48",
+        "Year": "2005"
+      },
+      {
+        "Title": "Case study of scientific data processing on a cloud using hadoop",
+        "Author": "C Zhang, H De Sterck, A Aboulnaga, H Djambazian, R Sladek",
+        "Venue": "High performance computing systems and applications, 400-415",
+        "Cited By": "43",
+        "Year": "2010"
+      },
+      {
+        "Title": "Database systems on virtual machines: How much do you lose?",
+        "Author": "UF Minhas, J Yadav, A Aboulnaga, K Salem",
+        "Venue": "Data Engineering Workshop, 2008. ICDEW 2008. IEEE 24th International ...",
+        "Cited By": "43",
+        "Year": "2008"
+      },
+      {
+        "Title": "Q-Cop: Avoiding bad query mixes to minimize client timeouts under heavy loads",
+        "Author": "S Tozer, T Brecht, A Aboulnaga",
+        "Venue": "Data Engineering (ICDE), 2010 IEEE 26th International Conference on, 397-408",
+        "Cited By": "38",
+        "Year": "2010"
+      }
+    ],
+    "stats": [
+      {
+        "citations": "2659",
+        "citationsSince2011": "1351",
+        "hindex": "27",
+        "hindexSince2011": "22",
+        "i10index": "42",
+        "i10indexSince2011": "39"
+      }
+    ],
+    "year": "2000"
+  },
+  {
+    "name": "Gregory D. Abowd",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gb8sbdcAAAAJ&citpid=1",
+    "keywords": [
+      "Human-Computer Interaction",
+      "Mobile and Ubiquitous Computing"
+    ],
+    "affiliation": "Regents' Professor and J.Z. Liang Chair, School of Interactive Computing, Georgia Institute of",
+    "url": "http://scholar.google.com/citations?user=gb8sbdcAAAAJ",
+    "PublicationArray": [
+      {
+        "Title": "Human-computer interaction",
+        "Author": "A Dix, J Finlay, G Abowd, R Beale",
+        "Venue": "Prentice hall",
+        "Cited By": "5345",
+        "Year": "2004"
+      },
+      {
+        "Title": "Towards a better understanding of context and context-awareness",
+        "Author": "GD Abowd, AK Dey, PJ Brown, N Davies, M Smith, P Steggles",
+        "Venue": "Handheld and ubiquitous computing, 304-307",
+        "Cited By": "4785",
+        "Year": "1999"
+      },
+      {
+        "Title": "A conceptual framework and a toolkit for supporting the rapid prototyping of context-aware applications",
+        "Author": "AK Dey, GD Abowd, D Salber",
+        "Venue": "Human-Computer Interaction 16 (2-4), 97-166",
+        "Cited By": "3229",
+        "Year": "2001"
+      },
+      {
+        "Title": "Cyberguide: A mobile context‐aware tour guide",
+        "Author": "GD Abowd, CG Atkeson, J Hong, S Long, R Kooper, M Pinkerton",
+        "Venue": "Wireless networks 3 (5), 421-433",
+        "Cited By": "1887",
+        "Year": "1997"
+      },
+      {
+        "Title": "Charting past, present, and future research in ubiquitous computing",
+        "Author": "GD Abowd, ED Mynatt",
+        "Venue": "ACM Transactions on Computer-Human Interaction (TOCHI) 7 (1), 29-58",
+        "Cited By": "1781",
+        "Year": "2000"
+      },
+      {
+        "Title": "The context toolkit: aiding the development of context-enabled applications",
+        "Author": "D Salber, AK Dey, GD Abowd",
+        "Venue": "Proceedings of the SIGCHI conference on Human Factors in Computing Systems ...",
+        "Cited By": "1228",
+        "Year": "1999"
+      },
+      {
+        "Title": "The aware home: A living laboratory for ubiquitous computing research",
+        "Author": "CD Kidd, R Orr, GD Abowd, CG Atkeson, IA Essa, B MacIntyre, E Mynatt, ...",
+        "Venue": "Cooperative buildings. Integrating information, organizations, and ...",
+        "Cited By": "1167",
+        "Year": "1999"
+      },
+      {
+        "Title": "Classroom 2000: An experiment with the instrumentation of a living educational environment",
+        "Author": "GD Abowd",
+        "Venue": "IBM Systems Journal 38 (4), 508-530",
+        "Cited By": "815",
+        "Year": "1999"
+      },
+      {
+        "Title": "The smart floor: a mechanism for natural user identification and tracking",
+        "Author": "RJ Orr, GD Abowd",
+        "Venue": "CHI'00 extended abstracts on Human factors in computing systems, 275-276",
+        "Cited By": "746",
+        "Year": "2000"
+      },
+      {
+        "Title": "SAAM: A method for analyzing the properties of software architectures",
+        "Author": "R Kazman, L Bass, M Webb, G Abowd",
+        "Venue": "Proceedings of the 16th international conference on Software engineering, 81-90",
+        "Cited By": "620",
+        "Year": "1994"
+      },
+      {
+        "Title": "Scenario-based analysis of software architecture",
+        "Author": "R Kazman, G Abowd, L Bass, P Clements",
+        "Venue": "Software, IEEE 13 (6), 47-55",
+        "Cited By": "544",
+        "Year": "1996"
+      },
+      {
+        "Title": "Securing context-aware applications using environment roles",
+        "Author": "MJ Covington, W Long, S Srinivasan, AK Dev, M Ahamad, GD Abowd",
+        "Venue": "Proceedings of the sixth ACM symposium on Access control models and ...",
+        "Cited By": "499",
+        "Year": "2001"
+      },
+      {
+        "Title": "The Human Experience.",
+        "Author": "GD Abowd, ED Mynatt, T Rodden",
+        "Venue": "IEEE pervasive computing 1 (1), 48-57",
+        "Cited By": "453",
+        "Year": "2002"
+      },
+      {
+        "Title": "Rapid prototyping of mobile context-aware applications: The cyberguide case study",
+        "Author": "S Long, R Kooper, GD Abowd, CG Atkeson",
+        "Venue": "Proceedings of the 2nd annual international conference on Mobile computing ...",
+        "Cited By": "441",
+        "Year": "1996"
+      },
+      {
+        "Title": "The conference assistant: Combining context-awareness with wearable computing",
+        "Author": "AK Dey, D Salber, GD Abowd, M Futakawa",
+        "Venue": "Wearable Computers, 1999. Digest of Papers. The Third International ...",
+        "Cited By": "436",
+        "Year": "1999"
+      },
+      {
+        "Title": "The context toolkit: Aiding the development of context-aware applications",
+        "Author": "AK Dey, GD Abowd",
+        "Venue": "Workshop on Software Engineering for wearable and pervasive computing, 431-441",
+        "Cited By": "425",
+        "Year": "2000"
+      },
+      {
+        "Title": "Cybreminder: A context-aware system for supporting reminders",
+        "Author": "AK Dey, GD Abowd",
+        "Venue": "Handheld and Ubiquitous Computing, 172-186",
+        "Cited By": "410",
+        "Year": "2000"
+      },
+      {
+        "Title": "A context-based infrastructure for smart environments",
+        "Author": "AK Dey, GD Abowd, D Salber",
+        "Venue": "Managing Interactions in Smart Environments, 114-128",
+        "Cited By": "389",
+        "Year": "2000"
+      },
+      {
+        "Title": "Formalizing style to understand descriptions of software architecture",
+        "Author": "GD Abowd, R Allen, D Garlan",
+        "Venue": "ACM Transactions on Software Engineering and Methodology (TOSEM) 4 (4), 319-364",
+        "Cited By": "356",
+        "Year": "1995"
+      },
+      {
+        "Title": "At the flick of a switch: Detecting and classifying unique electrical events on the residential power line",
+        "Author": "SN Patel, T Robertson, JA Kientz, MS Reynolds, GD Abowd",
+        "Venue": "Lecture Notes in Computer Science 4717, 271-288",
+        "Cited By": "344",
+        "Year": "2007"
+      }
+    ],
+    "stats": [
+      {
+        "citations": "37236",
+        "citationsSince2011": "12716",
+        "hindex": "69",
+        "hindexSince2011": "45",
+        "i10index": "217",
+        "i10indexSince2011": "147"
+      }
+    ],
+    "year": "1995"
+  }
+];
